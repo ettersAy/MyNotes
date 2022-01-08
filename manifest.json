@@ -1,0 +1,21 @@
+{
+    "name": "MyNotes",
+    "description": "Access to all my notes",
+    "version": "1.2",
+    "manifest_version": 3,
+    "permissions": ["storage"],
+    "action": {
+        "default_title": "My Notes",
+        "default_popup": "popup.html",
+        "default_icon": {
+            "48": "/img/MyNotes-logo.48.png"
+        }
+    },
+    "icons": {
+        "16": "/img/MyNotes-logo.16.png",
+        "32": "/img/MyNotes-logo.32.png",
+        "48": "/img/MyNotes-logo.48.png",
+        "128": "/img/MyNotes-logo.128.png"
+      }
+  }
+  

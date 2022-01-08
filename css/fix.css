@@ -1,0 +1,34 @@
+
+
+section {
+    padding: 5%;
+    padding-top: 0;
+    height: 100vh;
+}
+
+.side {
+    margin-left: 0;
+}
+
+button {
+    margin: 5px;
+    border-color: #957dad !important;
+    color: #888888 !important;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+button:hover {
+    background-color: #fec8d8 !important;
+}
+
+textarea {
+    padding: 3%;
+    border-color: #957dad;
+    border-width: thick;
+}
+
+.flex-box {
+    display: flex;
+    justify-content: center;
+}
